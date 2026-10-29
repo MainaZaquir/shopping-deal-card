@@ -120,7 +120,7 @@ export default function App() {
 
         <footer className="site-footer">
           <p>DEALCRAFT <span aria-hidden="true">/</span> A PERSONAL PROTOTYPE, NOT A COUPON SERVICE</p>
-          <p>DESIGNED TO DEMONSTRATE THE DETAILS <span aria-hidden="true">✳</span></p>
+          <p>DESIGNED BY ZAQUIR TO DEMONSTRATE THE DETAILS <span aria-hidden="true">✳</span></p>
         </footer>
       </main>
     </div>
